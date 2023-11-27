@@ -1,3 +1,13 @@
-Shailendra
-india
-Working on backend development course by meta !
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
